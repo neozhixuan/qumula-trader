@@ -4,7 +4,7 @@ Quick Multi Agent Trader - FYP Research
 
 ## Objective
 
-Explore whether introducing multi-agentic generative AI in low timeframe trading is feasible, and is able to generate alpha that beats single/zero-agent frameworks
+Explore whether introducing multi-agentic generative AI in low timeframe trading is feasible, and is able to generate alpha that beats single/zero-agent frameworks.
 
 ## Setup
 
